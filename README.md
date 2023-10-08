@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piokow44
 - 👀 I’m interested in expanding my knowledge. 
-- 🌱 I’m currently learning HTML, CSS, JavaScript.
+- 🌱 I’m currently learning DevOps's stuff.
 - 📫 How to reach me: so far I'm the elusive ninja 🥷
 
 <!---
